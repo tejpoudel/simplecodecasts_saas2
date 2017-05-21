@@ -1,0 +1,16 @@
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
+
+body {
+    background: #4CB8C4;  /* fallback for old browsers */
+    background: -webkit-gradient(linear, 100% 0, 0 0, from(#3CD3AD), to(#4CB8C4));
+    background: -webkit-linear-gradient(to right, #3CD3AD, #4CB8C4);
+    background: -moz-linear-gradient(to right, #3CD3AD, #4CB8C4);
+    background: -o-linear-gradient(to right, #3CD3AD, #4CB8C4);
+    background: linear-gradient(to right, #3CD3AD, #4CB8C4);  /* Chrome 10-25, Safari 5.1-6 */ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    }
